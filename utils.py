@@ -1,4 +1,4 @@
-"""Moduł z prostymi operacjami matematycznymi."""  # <--- docstring modułu
+"""Moduł zawierający podstawowe operacje matematyczne."""
 
 def add(a: int, b: int) -> int:
     """Zwraca sumę a i b."""
